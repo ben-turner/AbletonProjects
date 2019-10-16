@@ -8,7 +8,7 @@
          <ablFR:resource>pack</ablFR:resource>
          <ablFR:platform>win</ablFR:platform>
          <ablFR:packUniqueId>www.ableton.com/0</ablFR:packUniqueId>
-         <ablFR:packVersion>3.0.48361</ablFR:packVersion>
+         <ablFR:packVersion>3.0.49775</ablFR:packVersion>
          <ablFR:items>
             <rdf:Bag>
                <rdf:li rdf:parseType="Resource">
@@ -21,9 +21,9 @@
                </rdf:li>
             </rdf:Bag>
          </ablFR:items>
-         <xmp:CreatorTool>Updated by Ableton Index 10.0.3</xmp:CreatorTool>
+         <xmp:CreatorTool>Updated by Ableton Index 10.1</xmp:CreatorTool>
          <xmp:CreateDate>2018-09-08T18:03:42-07:00</xmp:CreateDate>
-         <xmp:MetadataDate>2018-09-08T18:03:45-07:00</xmp:MetadataDate>
+         <xmp:MetadataDate>2019-09-15T13:30:31-07:00</xmp:MetadataDate>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>
